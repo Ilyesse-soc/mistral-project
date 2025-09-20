@@ -35,3 +35,4 @@ npm run dev
 
 ---
 Projet réalisé en 2025.
+"# mistral-project" 
